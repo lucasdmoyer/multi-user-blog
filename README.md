@@ -1,0 +1,2 @@
+To run this app go to lucass-blog.appspot.com 
+If you want to run this on the localhost, use Google App Engine Launcher and go to File -> Add Existing Application and creating an application for the blog.
